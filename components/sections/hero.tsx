@@ -17,7 +17,7 @@ export function HeroSection() {
       className="relative min-h-screen flex items-center justify-center overflow-hidden"
     >
       {/* Gradient Background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-black via-[#0a1f0f] to-black" />
+      <div className="absolute inset-0 bg-gradient-to-br from-black via-[#220808] to-black" />
       
       {/* Animated Background Elements */}
       <div className="absolute inset-0 overflow-hidden">

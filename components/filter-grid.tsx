@@ -58,7 +58,7 @@ const filters = [
     category: "Nature",
     isPremium: true,
     isLiked: true,
-    color: "from-green-400 to-emerald-500",
+    color: "from-red-400 to-rose-500",
   },
   {
     id: 8,

@@ -35,8 +35,8 @@ export function CTASection() {
 
   return (
     <section ref={sectionRef} className="py-20 md:py-32 relative overflow-hidden">
-      {/* Dark Background with Green Glow */}
-      <div className="absolute inset-0 bg-gradient-to-br from-black via-[#061a0b] to-black" />
+      {/* Dark Background with Red Glow */}
+      <div className="absolute inset-0 bg-gradient-to-br from-black via-[#1f0707] to-black" />
       
       {/* Glowing Elements */}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-primary/20 rounded-full blur-3xl" />
